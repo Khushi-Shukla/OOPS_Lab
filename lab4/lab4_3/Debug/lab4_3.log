@@ -1,0 +1,4 @@
+﻿  lab4_3.cpp
+C:\Users\ASUS\source\repos\lab4\lab4_3\lab4_3.cpp(28,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\lab4\lab4_3\lab4_3.cpp(58,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  lab4_3.vcxproj -> C:\Users\ASUS\source\repos\lab4\lab4_3\Debug\lab4_3.exe

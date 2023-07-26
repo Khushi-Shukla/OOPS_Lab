@@ -1,0 +1,9 @@
+﻿  lab6_2.cpp
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(27,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(35,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(42,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(51,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(51,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(54,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\lab6\lab6_2\lab6_2.cpp(54,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  lab6_2.vcxproj -> C:\Users\ASUS\source\repos\lab6\lab6_2\Debug\lab6_2.exe

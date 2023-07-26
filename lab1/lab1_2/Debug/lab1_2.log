@@ -1,0 +1,3 @@
+﻿  lab1_2.cpp
+C:\Users\ASUS\source\repos\lab1_2\lab1_2.cpp(7,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  lab1_2.vcxproj -> C:\Users\ASUS\source\repos\lab1_2\Debug\lab1_2.exe
